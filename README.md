@@ -1,7 +1,10 @@
 # protect-by-password
 
-![index](https://github.com/seafy/protect-by-password/blob/master/img/password.png "PAGE INDEX :")
+### INDEX:
+![index](https://github.com/seafy/protect-by-password/blob/master/img/password.png)
 
-![success](https://github.com/seafy/protect-by-password/blob/master/img/password2.png?raw=true "PAGE SUCCESS !")
+### PAGE SUCCESS:
+![success](https://github.com/seafy/protect-by-password/blob/master/img/password2.png?raw=true)
 
-![fail](https://github.com/seafy/protect-by-password/blob/master/img/password3.png?raw=true "PAGE FAIL PASSWORD")
+### PAGE FAIL PASSWORD:
+![fail](https://github.com/seafy/protect-by-password/blob/master/img/password3.png?raw=true)
